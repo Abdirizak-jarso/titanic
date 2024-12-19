@@ -74,7 +74,7 @@ Train and Save the Model:
 
 Train the best-performing model and save it using Python's joblib
 
-# Deployment Demonstration**
+# Deployment Demonstration
 ![Deployment](image.png "Optional Tooltip Text")
 
 
