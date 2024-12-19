@@ -1,6 +1,4 @@
-![titanic](titanic.jpg /Users/abdirizak/Desktop/Screenshot 2024-12-19 at 11.10.48.png"Optional Tooltip Text")
-
-
+![Deployment](image.jpg "Optional Tooltip Text")
 # Titanic Dataset Analysis and Deployment
 ## Overview
 
